@@ -61,6 +61,11 @@ header: cv
 
 ### Publications
 
+- Twining, B.V., and **Fisher, J.C.**, 2015, Multilevel groundwater monitoring
+  of hydraulic head and temperature in the eastern Snake River Plain aquifer,
+  Idaho National Laboratory, Idaho, 2011--13: U.S. Geological Survey Scientific
+  Investigations Report 2015-5042 (DOE/ID-22235), 49 p.,
+  [html](http://pubs.usgs.gov/sir/2015/5042/).
 - Davis, L.C., Bartholomay, R.C., **Fisher, J.C.**, and Maimer, N.V., 2015,
   Water-quality characteristics and trends for selected wells possibly
   influenced by wastewater disposal at the Idaho National Laboratory,
